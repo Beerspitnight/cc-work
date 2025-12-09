@@ -1,0 +1,5 @@
+# List of Absence Types
+
+Full Day Absence - 7 - 2:20
+Half Day AM Absence - 7:00 - 11:15
+Half Day PM Absence - 11:15 - 2:20

@@ -1,0 +1,859 @@
+🚀 Honda Accord Scraper - NO YEAR FILTERING
+
+Target criteria:
+  - Make: Honda
+  - Models: accord, accord hybrid
+  - Trims: sport, sport hybrid, sport-l hybrid, ex-l, lx, se, exl
+  - Years: All years (filtering disabled)
+  - Max Mileage: No limit
+  - Price Range: $16,000 - $21,000
+
+🌐 Launching browser...
+
+============================================================
+Processing: Honda of Toms River
+============================================================
+
+🔍 Fetching sitemap for Honda of Toms River...
+  Trying: https://www.hondaoftomsriver.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoftomsriver.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoftomsriver.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoftomsriver.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoftomsriver.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoftomsriver.com/resrc/xmlsitemap/xml-sitemaps/
+✓ Found 20 potential URLs
+
+[1/20] 110780468
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="37,361", VIN="1HGCV1F45LA086825", Trim="EX"
+  ⊗ Trim "ex" not in criteria
+
+[2/20] 110981546
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="21,059", VIN="1HGCY2F52PA040980", Trim="Sport"
+  ⊗ Price $25,359 too high
+
+[3/20] 110985323
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="27,833", VIN="1HGCV1F5XMA059873", Trim="EX-L"
+  ⊗ Price $24,471 too high
+
+[4/20] 110988875
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="10,646", VIN="1HGCY2F51RA091521", Trim="Sport"
+  ⊗ Price $25,995 too high
+
+[5/20] 111057977
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="24,941", VIN="1HGCY1F39RA044374", Trim="EX"
+  ⊗ Price $23,495 too high
+
+[6/20] 111307127
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="4,609", VIN="1HGCY1F49SA008926", Trim="SE"
+  ⊗ Price $25,995 too high
+
+[7/20] 111380657
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="50,525", VIN="1HGCY1F33RA036884", Trim="EX"
+  ⊗ Price $22,686 too high
+
+[8/20] 111380660
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="19,101", VIN="1HGCY1F38RA027484", Trim="EX"
+  ⊗ Price $24,291 too high
+
+[9/20] 111406520
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="28,626", VIN="1HGCV1F39NA085235", Trim="Sport"
+  ⊗ Price $23,492 too high
+
+[10/20] 111406526
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="28,988", VIN="1HGCY2F51PA063537", Trim="Sport"
+  ⊗ Price $26,300 too high
+
+[11/20] 111856625
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="7,359", VIN="1HGCY2F65RA058112", Trim="EX-L"
+  ⊗ Price $31,500 too high
+
+[12/20] 112179299
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="44,220", VIN="1HGCV1F35NA093073", Trim="Sport"
+  ⊗ Price $23,042 too high
+
+[13/20] 112185272
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="16,795", VIN="1HGCY2F53PA042799", Trim="Sport"
+  ⊗ Price $25,295 too high
+
+[14/20] 112507502
+  ⚠️  No DETAILS tab found, trying alternate method
+  📊 Extracted: Mileage="55,288", VIN="1HGCR2F72FA141174", Trim="EX"
+  ⊗ Trim "ex" not in criteria
+
+[15/20] 112627166
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="26,772", VIN="1HGCY1F20PA052335", Trim="LX"
+  ⊗ Price $21,795 too high
+
+[16/20] 112723310
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="42,334", VIN="1HGCY2F72PA034064", Trim="Sport-L"
+  ⊗ Price $24,795 too high
+
+[17/20] 112995734
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="8,381", VIN="1HGCY1F24RA048551", Trim="LX"
+  ⊗ Price $23,995 too high
+
+[18/20] 113045543
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="60,424", VIN="1HGCV1F15JA182585", Trim="LX"
+  ✅ MATCH! 2018 Accord - $17,295 - 60,424 mi
+
+[19/20] 113239442
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="80,876", VIN="1HGCR2F89HA268080", Trim="EX-L"
+  ✅ MATCH! 2017 Accord - $16,705 - 80,876 mi
+
+[20/20] 113239445
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="25,957", VIN="1HGCV1F37NA087016", Trim="Sport"
+  ⊗ Price $24,908 too high
+
+============================================================
+Processing: Lester Glenn Honda
+============================================================
+
+🔍 Fetching sitemap for Lester Glenn Honda...
+  Trying: https://www.lesterglennhonda.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.lesterglennhonda.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.lesterglennhonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.lesterglennhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.lesterglennhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.lesterglennhonda.com/resrc/xmlsitemap/xml-sitemaps/
+✓ Found 8 potential URLs
+
+[1/8] 110955530
+  📊 Extracted: Mileage="34,678", VIN="1HGCY1F32PA004554", Trim="EX"
+  ⊗ Price $26,935 too high
+
+[2/8] 111092669
+  📊 Extracted: Mileage="45,691", VIN="1HGCV1F41NA112517", Trim="Sport SE"
+  ⊗ Price $27,935 too high
+
+[3/8] 111501563
+  📊 Extracted: Mileage="3,999", VIN="1HGCY2F55SA002393", Trim="Sport"
+  ⊗ Price $36,935 too high
+
+[4/8] 112140104
+  📊 Extracted: Mileage="19,582", VIN="1HGCY1F38PA041852", Trim="EX"
+  ⊗ Price $28,935 too high
+
+[5/8] 112308338
+  📊 Extracted: Mileage="59,646", VIN="1HGCV3F23NA043890", Trim="Sport"
+  ⊗ Price $28,935 too high
+
+[6/8] 112920830
+  📊 Extracted: Mileage="12,123", VIN="1HGCY1F27RA068308", Trim="LX"
+  ⊗ Price $25,935 too high
+
+[7/8] 113214554
+  📊 Extracted: Mileage="134,061", VIN="1HGCP26849A045436", Trim="EX-L"
+  ⊗ Price $26,935 too high
+
+[8/8] 113214557
+  📊 Extracted: Mileage="123,075", VIN="1HGCR6F36FA003447", Trim="Sport"
+  ⊗ Price $36,935 too high
+
+============================================================
+Processing: DCH Kay Honda
+============================================================
+
+🔍 Fetching sitemap for DCH Kay Honda...
+  Trying: https://www.dchkayhonda.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.dchkayhonda.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Honda of Freehold
+============================================================
+
+🔍 Fetching sitemap for Honda of Freehold...
+  Trying: https://www.hondaoffreehold.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoffreehold.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoffreehold.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoffreehold.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoffreehold.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaoffreehold.com/resrc/xmlsitemap/xml-sitemaps/
+✓ Found 30 potential URLs
+
+[1/30] 103399786
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="64,710", VIN="1HGCV1F43LA050096", Trim="EX"
+  ⊗ Price $21,522 too high
+
+[2/30] 106005973
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="31,059", VIN="1HGCY1F24RA012553", Trim="LX"
+  ⊗ Price $24,182 too high
+
+[3/30] 107670688
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="31,451", VIN="1HGCV1F38NA120993", Trim="Sport"
+  ⊗ Price $25,182 too high
+
+[4/30] 108381016
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="56,975", VIN="1HGCV1F31NA113822", Trim="Sport"
+  ⊗ Price $24,472 too high
+
+[5/30] 108853349
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="32,870", VIN="1HGCY1F34RA012674", Trim="EX"
+  ⊗ Price $25,082 too high
+
+[6/30] 108906752
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="70,042", VIN="1HGCV1F30NA106568", Trim="Sport"
+  ⊗ Price $23,472 too high
+
+[7/30] 109793543
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="28,855", VIN="1HGCV1F30NA096981", Trim="Sport"
+  ⊗ Price $25,982 too high
+
+[8/30] 109895534
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="23,810", VIN="1HGCV1F38NA073657", Trim="Sport"
+  ⊗ Price $26,722 too high
+
+[9/30] 110110289
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="30,499", VIN="1HGCY1F2XPA015860", Trim="LX"
+  ⊗ Price $24,482 too high
+
+[10/30] 110208428
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="107,186", VIN="1HGCV1F66JA078523", Trim="EX-L Navi 1.5T"
+  ✅ MATCH! 2018 Accord - $18,452 - 107,186 mi
+
+[11/30] 110507057
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="20,702", VIN="1HGCY1F24RA024010", Trim="LX"
+  ⊗ Price $25,182 too high
+
+[12/30] 110507060
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="20,621", VIN="1HGCY1F36RA024292", Trim="EX"
+  ⊗ Price $26,182 too high
+
+[13/30] 110654804
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="30,521", VIN="1HGCY1F26RA034120", Trim="LX"
+  ⊗ Price $24,722 too high
+
+[14/30] 110964404
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="22,103", VIN="1HGCV1F47NA112196", Trim="Sport SE"
+  ⊗ Price $27,182 too high
+
+[15/30] 111396947
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="38,224", VIN="1HGCV1F34NA084221", Trim="Sport"
+  ⊗ Price $26,182 too high
+
+[16/30] 111727448
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="37,473", VIN="1HGCY1F20PA046227", Trim="LX"
+  ⊗ Price $23,582 too high
+
+[17/30] 111979172
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="34,774", VIN="1HGCV1F31NA076366", Trim="Sport"
+  ⊗ Price $26,182 too high
+
+[18/30] 112221935
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="29,929", VIN="1HGCY1F35RA078635", Trim="EX"
+  ⊗ Price $25,482 too high
+
+[19/30] 112269845
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="147,449", VIN="1HGCR2F74GA088639", Trim="EX"
+  ⊗ Price $13,182 too low
+
+[20/30] 112493063
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="22,762", VIN="1HGCV1F30NA080571", Trim="Sport"
+  ⊗ Price $26,182 too high
+
+[21/30] 112608467
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="17,712", VIN="1HGCY1F33RA015601", Trim="EX"
+  ⊗ Price $26,182 too high
+
+[22/30] 112829126
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="35,473", VIN="1HGCV1F30NA114105", Trim="Sport"
+  ⚠️  No price found - skipping
+
+[23/30] 112929551
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="30,064", VIN="1HGCY1F20PA031808", Trim="LX"
+  ⚠️  No price found - skipping
+
+[24/30] 113008613
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="67,821", VIN="1HGCR2F86FA145284", Trim="EX-L"
+  ✅ MATCH! 2015 Accord - $18,182 - 67,821 mi
+
+[25/30] 113008616
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="95,803", VIN="1HGCV1F1XJA163742", Trim="LX 1.5T"
+  ⚠️  No price found - skipping
+
+[26/30] 113008619
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="38,872", VIN="1HGCV1F35NA089637", Trim="Sport"
+  ⊗ Price $25,182 too high
+
+[27/30] 113008631
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="131,550", VIN="JHMCR6F32HC007094", Trim="4DR SDN HYBRID"
+  ⚠️  No price found - skipping
+
+[28/30] 113102564
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="21,221", VIN="1HGCV1F30NA095149", Trim="Sport"
+  ⊗ Price $26,182 too high
+
+[29/30] 113151365
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="99,654", VIN="1HGCP2F31AA175960", Trim="LX"
+  ⚠️  No price found - skipping
+
+[30/30] 113260265
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="314,617", VIN="1HGCM56387A026786", Trim="LX SE"
+  ⚠️  No price found - skipping
+
+============================================================
+Processing: Causeway Honda
+============================================================
+
+🔍 Fetching sitemap for Causeway Honda...
+  Trying: https://www.causewayhonda.net/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.causewayhonda.net/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Honda Universe
+============================================================
+
+🔍 Fetching sitemap for Honda Universe...
+  Trying: https://www.hondauniverse.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondauniverse.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Mahwah Honda
+============================================================
+
+🔍 Fetching sitemap for Mahwah Honda...
+  Trying: https://www.mahwahhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/sitemap_index.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.mahwahhonda.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Honda of Bridgewater
+============================================================
+
+🔍 Fetching sitemap for Honda of Bridgewater...
+  Trying: https://www.hondabridgewater.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/sitemap_index.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondabridgewater.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Planet Honda
+============================================================
+
+🔍 Fetching sitemap for Planet Honda...
+  Trying: https://www.planethondanj.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.planethondanj.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.planethondanj.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.planethondanj.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.planethondanj.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.planethondanj.com/resrc/xmlsitemap/xml-sitemaps/
+✓ Found 31 potential URLs
+
+[1/31] 92185705
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="6", VIN="1HGCY2F52SA090500", Trim="Sport"
+  ⊗ Price $34,850 too high
+
+[2/31] 96163582
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="5", VIN="1HGCY1F22SA082929", Trim="LX"
+  ⊗ Price $29,490 too high
+
+[3/31] 97914610
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="5", VIN="1HGCY1F22SA082929", Trim="LX"
+  ⊗ Price $29,490 too high
+
+[4/31] 110701331
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="31,158", VIN="1HGCV3F2XNA034684", Trim="Sport"
+  ⊗ Price $26,258 too high
+
+[5/31] 111524993
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="5,245", VIN="1HGCY2F6XRA030659", Trim="EX-L"
+  ⊗ Price $29,289 too high
+
+[6/31] 111538475
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="42,090", VIN="1HGCY2F75RA078451", Trim="Sport-L"
+  ⊗ Price $26,244 too high
+
+[7/31] 111734600
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="58,521", VIN="1HGCV1F49NA042488", Trim="Sport Special Edition"
+  ⊗ Price $23,491 too high
+
+[8/31] 111828311
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="37,699", VIN="1HGCV1F47NA122677", Trim="Sport Special Edition"
+  ⊗ Price $25,382 too high
+
+[9/31] 111917747
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="28,180", VIN="1HGCV1F36NA116828", Trim="Sport"
+  ⊗ Price $25,856 too high
+
+[10/31] 111958865
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="34,495", VIN="1HGCV2F36NA020834", Trim="Sport 2.0T"
+  ⊗ Price $25,778 too high
+
+[11/31] 112063823
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="58,286", VIN="1HGCV1F3XLA148095", Trim="Sport"
+  ✅ MATCH! 2020 Accord - $20,854 - 58,286 mi
+
+[12/31] 112160624
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="16,590", VIN="1HGCY2F70RA036589", Trim="Sport-L"
+  ⊗ Price $28,551 too high
+
+[13/31] 112401923
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="27,754", VIN="1HGCY2F52PA033138", Trim="Sport"
+  ⊗ Price $26,448 too high
+
+[14/31] 112413590
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="92,887", VIN="1HGCV1F41JA009379", Trim="EX"
+  ✅ MATCH! 2018 Accord - $16,907 - 92,887 mi
+
+[15/31] 112413593
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="20,664", VIN="1HGCV1F44NA101477", Trim="Sport Special Edition"
+  ⊗ Price $26,843 too high
+
+[16/31] 112480508
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="22,200", VIN="1HGCY2F54PA008371", Trim="Sport"
+  ⊗ Price $27,070 too high
+
+[17/31] 112484978
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="85,684", VIN="1HGCV1F35NA110907", Trim="Sport"
+  ✅ MATCH! 2022 Accord - $20,770 - 85,684 mi
+
+[18/31] 112602842
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="39,071", VIN="1HGCY2F87PA030388", Trim="Touring"
+  ⊗ Price $28,326 too high
+
+[19/31] 112699214
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="17,588", VIN="1HGCY1F32RA044314", Trim="EX"
+  ⊗ Price $25,678 too high
+
+[20/31] 112731884
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="7,938", VIN="1HGCV1F39NA075482", Trim="Sport"
+  ⊗ Price $27,015 too high
+
+[21/31] 112736924
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="181,472", VIN="1HGCR3F07HA013590", Trim="EX-L"
+  ⊗ Price $13,495 too low
+
+[22/31] 112816067
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="50,635", VIN="1HGCY1F35PA050654", Trim="EX"
+  ⊗ Price $23,221 too high
+
+[23/31] 112919174
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="24,467", VIN="1HGCY2F54PA064455", Trim="Sport"
+  ⊗ Price $26,937 too high
+
+[24/31] 112925366
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="11,629", VIN="1HGCY2F89PA069760", Trim="Touring"
+  ⊗ Price $30,983 too high
+
+[25/31] 113000942
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="8,838", VIN="1HGCY1F22PA016842", Trim="LX"
+  ⊗ Price $24,950 too high
+
+[26/31] 113006396
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="47,723", VIN="1HGCV1F37NA088537", Trim="Sport"
+  ⊗ Price $24,123 too high
+
+[27/31] 113041175
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="22,831", VIN="1HGCV1F32NA081155", Trim="Sport"
+  ⊗ Price $26,269 too high
+
+[28/31] 113045726
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="68,790", VIN="1HGCV1F30LA149689", Trim="Sport"
+  ✅ MATCH! 2020 Accord - $19,987 - 68,790 mi
+
+[29/31] 113141699
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="24,154", VIN="1HGCV1F35NA111510", Trim="Sport"
+  ⊗ Price $26,158 too high
+
+[30/31] 113148023
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="64,516", VIN="1HGCY2F81PA004756", Trim="Touring"
+  ⊗ Price $26,764 too high
+
+[31/31] 113245271
+  ℹ️  Clicked DETAILS tab
+  📊 Extracted: Mileage="28,778", VIN="1HGCY1F20PA014572", Trim="LX"
+  ⊗ Price $23,693 too high
+
+============================================================
+Processing: Curry Honda
+============================================================
+
+🔍 Fetching sitemap for Curry Honda...
+  Trying: https://www.curryhondany.com/sitemap_index.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.curryhondany.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.curryhondany.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.curryhondany.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.curryhondany.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.curryhondany.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Davis Honda
+============================================================
+
+🔍 Fetching sitemap for Davis Honda...
+  Trying: https://www.davishonda.net/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.davishonda.net/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Burns Honda
+============================================================
+
+🔍 Fetching sitemap for Burns Honda...
+  Trying: https://burnshonda.com/sitemap_index.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/sitemap_index.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.burnshonda.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Honda Boardwalk
+============================================================
+
+🔍 Fetching sitemap for Honda Boardwalk...
+  Trying: https://www.hondaboardwalk.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/sitemap.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hondaboardwalk.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Princeton Honda
+============================================================
+
+🔍 Fetching sitemap for Princeton Honda...
+  Trying: https://www.princetonhonda.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.princetonhonda.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⚠️  XML parsing still failed, using regex fallback
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+============================================================
+Processing: Hamilton Honda
+============================================================
+
+🔍 Fetching sitemap for Hamilton Honda...
+  Trying: https://www.hamiltonhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/sitemap_index.xml
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/sitemap.xml
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/sitemap/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/sitemap.htm
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/sitemap.aspx
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+  Trying: https://www.hamiltonhonda.com/resrc/xmlsitemap/xml-sitemaps/
+  ⚠️  XML parsing failed, retrying with fix...
+  ⊗ No inventory sitemap in this index
+⚠️  No accessible sitemap found after trying all patterns
+
+✅ Exported 8 vehicles to honda-accords.csv
+
+============================================================
+✅ SCRAPING COMPLETE
+============================================================
+Total matching vehicles found: 8
+Output file: honda-accords.csv
+
+Matching vehicles:
+  1. 2018 Used 2018 Honda Accord LX near Toms River, NJ - $17,295 - 60,424 mi (Honda of Toms River)
+  2. 2017 Used 2017 Honda Accord EX-L in Toms River, NJ - $16,705 - 80,876 mi (Honda of Toms River)
+  3. 2018 Used 2018 Honda Accord Sedan EX-L Navi 1.5T in Freehold, NJ - $18,452 - 107,186 mi (Honda of Freehold)
+  4. 2015 Used 2015 Honda Accord Sedan EX-L in Freehold, NJ - $18,182 - 67,821 mi (Honda of Freehold)
+  5. 2020 Used 2020 Honda Accord Sport FWD in Union, NJ - $20,854 - 58,286 mi (Planet Honda)
+  6. 2018 Used 2018 Honda Accord EX FWD in Union, NJ - $16,907 - 92,887 mi (Planet Honda)
+  7. 2022 Used 2022 Honda Accord Sport FWD in Union, NJ - $20,770 - 85,684 mi (Planet Honda)
+  8. 2020 Used 2020 Honda Accord Sport FWD in Union, NJ - $19,987 - 68,790 mi (Planet Honda)

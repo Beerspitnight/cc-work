@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bmac/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.claude/
+
+
+# Temporary files
+*.tmp
+*.temp
+archive/
+
+# AI Tooling Cache & Config
+.taskmaster/
+.cursor/
+.gemini/
+.clinerules/
+.kiro/
+.roo/
+.roomodes
+.rules
+.trae/
+.windsurf/
+.zed/
+.mcp.json
+opencode.json
+mcp.json
+settings.json
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
